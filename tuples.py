@@ -1,3 +1,5 @@
-my_tuple = (10, 20, 30)
-print(my_tuple[0])  # Output: 10
-print(my_tuple[-1])  
+tuples=(30,40,50)
+a,b,c = tuples
+print(a)
+print(b)
+print(c)
